@@ -10,7 +10,7 @@ function preload() {
 }
 
 function setup() {
-    createCanvas(360,360);
+    createCanvas(582,500);
     colorMode(RGB,255,255,255,255);
     l = new Latent();
     frameRate(60);
