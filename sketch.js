@@ -6,7 +6,7 @@ let c;
 
 
 function preload() {
-    c = loadJSON("colourjson.json");
+    c = loadJSON("assets/colourjson.json");
 }
 
 function setup() {
